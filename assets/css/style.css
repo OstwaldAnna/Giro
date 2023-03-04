@@ -171,7 +171,7 @@ section#about-us{
     color: #fff;
     margin-bottom: 100px;
     height: 150vh;
-    background: url("../img/about-us-bg.jpg") center no-repeat;
+    background: url("../img/about-us-bg.png") center no-repeat;
     background-size: 100% 100%;
 }
 section#partners .item{
@@ -373,7 +373,7 @@ section#userful-info .content .item .title{
 section#sub{
     height: 100vh;
     margin-bottom: 15vh;
-    background: #3d67b0 center no-repeat;
+    background: url(../img/sub-bg.png) center no-repeat;
     background-size: 100% 100%;
 }
 footer{
